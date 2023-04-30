@@ -20,7 +20,6 @@ We use the following system requirements for this project:
 We use the following tools and technologies for this project:
 
 - Python 3
-- Visual Studio Code
 - Jupyter Notebook
 - Pandas
 - Numpy
