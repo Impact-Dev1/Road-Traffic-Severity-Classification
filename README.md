@@ -72,7 +72,7 @@ We evaluate the performance of the models using the following metrics:
 
 - Logistic Regression  
 
-![](results/LogisticRegression.png)
+![no-alt-text](results/LogisticRegression.png)
 
 ## Conclusion
 
