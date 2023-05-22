@@ -6,6 +6,8 @@ This study aims to propose an approach for road traffic severity classification 
 machine learning techniques. The objective is to develop a fast and efficient system for
 identifying the severity of road accidents and improving emergency response. We use a dataset of road accidents and their severity levels to train the model and classify the severity of future accidents.
 
+test commit
+
 ## System Requirements
 
 We use the following system requirements for this project:
