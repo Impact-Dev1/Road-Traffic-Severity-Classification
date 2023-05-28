@@ -63,8 +63,6 @@ We train the following machine learning models on the dataset:
 We evaluate the performance of the models using the following metrics:
 
 - Accuracy
-- Precision
-- Recall
 - F1 Score
 - Confusion Matrix
 
