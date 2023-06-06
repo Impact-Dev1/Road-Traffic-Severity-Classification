@@ -29,7 +29,7 @@ We use the following tools and technologies for this project:
 
 ## For Conda
 
-Use the command to create a conda env with required packages 
+Use the command to create a conda env with required packages \
 
 👉 conda create -n {env-name} python=3.10 \
 👉 conda activate {env-name} \
@@ -58,13 +58,13 @@ We perform the following exploratory data analysis on the dataset:
 
 ## Model Training
 
-We train the following machine learning models on the dataset:
+We train the following machine learning models on the dataset by:
 
-- Logistic Regression
-- K-Nearest Neighbors
-- Support Vector Machine
-- Decision Tree
-- Random Forest
+- K - Nearest Neighbours (KNN)
+- Decision Tree Classifer
+- Random Forest Classifier
+- Support Vector Classifier (SVC)
+- Logisitic Regression
 
 ## Model Evaluation
 
@@ -76,9 +76,8 @@ We evaluate the performance of the models using the following metrics:
 
 ## Results
 
-Comparative Analysis (Imbalanced Data) 
+Comparative Analysis (Imbalanced Data) \
 ![no-alt-text](results/comparative%20analysis.png)
-
 
 Comparative Analysis (Balanced Data)
 ![no-alt-text](results/comparative-analysis-balanced-data.png)
