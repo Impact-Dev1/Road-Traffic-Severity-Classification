@@ -27,6 +27,14 @@ We use the following tools and technologies for this project:
 - Seaborn
 - Scikit-learn
 
+## For Conda
+
+Use the command to create a conda env with required packages 
+
+👉 conda create -n {env-name} python=3.10 \
+👉 conda activate {env-name} \
+👉 conda install numpy matplotlib pandas scikit-learn seaborn jupyter imblearn
+
 ## Dataset
 
 The dataset used for this project is the [Road Accidents Severity Dataset](https://www.kaggle.com/datasets/kanuriviveknag/road-accidents-severity-dataset) dataset from Kaggle. It contains 32 features and 12k records of road accidents.
