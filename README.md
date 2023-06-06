@@ -74,13 +74,7 @@ We evaluate the performance of the models using the following metrics:
 - F1 Score
 - Confusion Matrix
 
-## Results
-
-Comparative Analysis (Imbalanced Data) \
-![no-alt-text](results/comparative%20analysis.png)
-
-Comparative Analysis (Balanced Data)
-![no-alt-text](results/comparative-analysis-balanced-data.png)
+## Comparative Analysis
 
 ![no-alt-text](results/comparative-analysis_BG.png)
 
