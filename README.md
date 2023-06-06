@@ -82,6 +82,10 @@ Comparative Analysis (Imbalanced Data) \
 Comparative Analysis (Balanced Data)
 ![no-alt-text](results/comparative-analysis-balanced-data.png)
 
+![no-alt-text](results/comparative-analysis_BG.png)
+
+![no-alt-text](results/comparative-analysis_LP.png)
+
 ## Conclusion
 
 In the context of road accident severity classification it has been observed that __number of vehicles involved__ and __number of casualties__ consistently emerge as significant factors indicating their strong influence on predicting the severity of accidents.
