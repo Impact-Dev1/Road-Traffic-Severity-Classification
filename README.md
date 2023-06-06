@@ -1,4 +1,4 @@
-# Road Accident Severity Classification using ML
+# Road Accident Severity Classification
 
 ## Introduction
 
@@ -12,7 +12,7 @@ We use the following system requirements for this project:
 
 - Python 3.x
 - Ram >= 4 GB
-- Storage >= 1 GB
+- Storage >= 20 GB
 - OS: Windows 11
 
 ## Tools and Technologies
@@ -27,13 +27,11 @@ We use the following tools and technologies for this project:
 - Seaborn
 - Scikit-learn
 
-## For Conda
+## activate and create conda env (recommended)
 
-Use the command to create a conda env with required packages \
-
-👉 conda create -n __env-name__ python=3.10 \
-👉 conda activate __env-name__ \
-👉 conda install numpy matplotlib pandas scikit-learn seaborn jupyter imblearn
+- conda create -n devenv python=3.10
+- conda activate devenv
+- conda install numpy matplotlib pandas scikit-learn seaborn jupyter imblearn
 
 ## Dataset
 
@@ -86,7 +84,3 @@ In the context of road accident severity classification it has been observed tha
 
 By incorporating the __number of vehicles involved__ and the __number of casualties__ into the predictive models machine learning algorithms can enhance road accident severity classification systems. This can play a important role in improving road safety measures, developing targeted interventions, and implementing proactive strategies to prevent accidents and minimize
 their consequences.
-
-## References
-
-To be added.
