@@ -31,8 +31,8 @@ We use the following tools and technologies for this project:
 
 Use the command to create a conda env with required packages \
 
-👉 conda create -n {env-name} python=3.10 \
-👉 conda activate {env-name} \
+👉 conda create -n __env-name__ python=3.10 \
+👉 conda activate __env-name__ \
 👉 conda install numpy matplotlib pandas scikit-learn seaborn jupyter imblearn
 
 ## Dataset
