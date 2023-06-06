@@ -84,18 +84,9 @@ Comparative Analysis (Balanced Data)
 
 ## Conclusion
 
-In the context of road accident severity classification \
-it has been observed that __number of vehicles involved__ \
-and __number of casualties__ consistently emerge as significant \
-factors indicating their strong influence on predicting the \
-severity of accidents. \
+In the context of road accident severity classification it has been observed that __number of vehicles involved__ and __number of casualties__ consistently emerge as significant factors indicating their strong influence on predicting the severity of accidents.
 
-By incorporating the __number of vehicles involved__ \
-and the __number of casualties__ into the predictive models \
-machine learning algorithms can enhance road accident severity \
-classification systems. This can play a important role in improving \
-road safety measures, developing targeted interventions, and \
-implementing proactive strategies to prevent accidents and minimize \
+By incorporating the __number of vehicles involved__ and the __number of casualties__ into the predictive models machine learning algorithms can enhance road accident severity classification systems. This can play a important role in improving road safety measures, developing targeted interventions, and implementing proactive strategies to prevent accidents and minimize
 their consequences.
 
 ## References
