@@ -78,6 +78,8 @@ We evaluate the performance of the models using the following metrics:
 
 ![no-alt-text](results/number_of_casualties.png)
 
+![no-alt-text](results/light_conditions.png)
+
 ## Comparative Analysis
 
 ![no-alt-text](results/comparative-analysis_BG.png)
