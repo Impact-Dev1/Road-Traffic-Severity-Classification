@@ -74,9 +74,9 @@ We evaluate the performance of the models using the following metrics:
 
 ## Initial Data Analysis
 
-![no-alt-text](number_of_vehicles.png) 
+![no-alt-text](results/number_of_vehicles.png) 
 
-![no-alt-text](number_of_casualties.png)
+![no-alt-text](results/number_of_casualties.png)
 
 ## Comparative Analysis
 
