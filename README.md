@@ -72,19 +72,10 @@ We evaluate the performance of the models using the following metrics:
 - F1 Score
 - Confusion Matrix
 
-## Initial Data Analysis
-
-![no-alt-text](results/number_of_vehicles.png) 
-
-![no-alt-text](results/number_of_casualties.png)
-
-![no-alt-text](results/light_conditions.png)
-
 ## Comparative Analysis
 
 ![no-alt-text](results/comparative-analysis_BG.png)
 
-![no-alt-text](results/comparative-analysis_LP.png)
 
 ## Conclusion
 
