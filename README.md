@@ -74,7 +74,11 @@ We evaluate the performance of the models using the following metrics:
 
 ## Comparative Analysis
 
-![no-alt-text](results/comparative-analysis_BG.png)
+![no-alt-text](results/comparative-analysis_BG.png) 
+
+## Dashboard using Power BI
+
+![alt text](image.png)
 
 
 ## Conclusion
